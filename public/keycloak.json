@@ -1,0 +1,10 @@
+{
+    "realm": "MedicalAnalysis",
+    "auth-server-url": "http://localhost:8019/auth/",
+    "ssl-required": "external",
+    "resource": "MedicalAnalysisF",
+    "public-client": true,
+    "verify-token-audience": true,
+    "use-resource-role-mappings": true,
+    "confidential-port": 0
+}
